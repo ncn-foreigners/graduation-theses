@@ -1,2 +1,6 @@
-# graduation-theses
-Repository with graduation theses written with support from the grant
+# Graduation theses 
+
+Graduadion theses covering topics refering to grant.
+
++ 2022 - Piotr Chlebicki (UAM) []()
+
